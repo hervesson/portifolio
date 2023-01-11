@@ -9,10 +9,11 @@
 
 body {
   background-color: #121214;
-  color: white;
+  color: #EDBC00;
   text-align: -webkit-center;
 }
 
 a, button {
   cursor: pointer;
+  text-decoration: none;
 }

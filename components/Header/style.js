@@ -49,9 +49,11 @@ export const Ancora = styled.a`
   font-size: 20px;
   height: 99px;
   transition: 0.3s;
+  color: #EDBC00;
   
   &.active {
     background-color: black;
+    color: white;
   }
 
   @media (min-width: 560px) {
