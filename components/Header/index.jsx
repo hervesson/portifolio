@@ -13,7 +13,7 @@ export default function Header() {
 
    function activeLink(path) {
       return asPath === `/${path}` ? 'active' : ''
-   }
+    }
 
    return (
       <Container>
