@@ -87,5 +87,5 @@ export const Logo = styled.div`
 `;
 
 export const Img = styled.img`
-  border-radius: 200px;
+  border-radius: 50%;
 `;

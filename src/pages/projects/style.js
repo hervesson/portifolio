@@ -23,7 +23,7 @@ export const Content = styled.div`
 export const Ul = styled.ul`
    overflow-x: auto;
    height: inherit;
-   width: inherit;
+   width: 100%;
    color: white;
    &::-webkit-scrollbar {
       width: 12px;
