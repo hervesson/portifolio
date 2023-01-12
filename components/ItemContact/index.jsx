@@ -1,5 +1,5 @@
 import React from 'react';
-import { Item, Icon, Text } from './style.page'
+import { Item, Icon, Text } from './style'
 
 export default function ItemContact({ IconFa, LinkContact }) {
     return (
